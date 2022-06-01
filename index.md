@@ -6,6 +6,8 @@ layout: default
 
 # History
 
+![Hongrys_Kitchen](./assets/la_galbi.jpeg)
+
 Hidden within one of Austin's unique East Side neighborhoods, Hongry's Kitchen is a Speakeasy Omakase KBBQ restaurant that serves a variety of meats and farm to table organic vegetables.
 
 Founded in 2019, we are family owned and operated proudly in Austin, TX.
@@ -21,7 +23,7 @@ Founded in 2019, we are family owned and operated proudly in Austin, TX.
 > A traditional Korean side dish of salted and fermented vegetables, such as napa cabbage and Korean radish. A wide selection of seasonings are used, including gochugaru (Korean chili powder), spring onions, garlic, ginger, and jeotgal (salted seafood), etc.
 
 ### 깻잎 (Kkaennip)
-![Kkaennip](./assets/kimchi.jpeg)
+![Kkaennip](./assets/kkaennip.png)
 In Korean cuisine, kkaennip or perilla leaves are widely used as a herb and a vegetable. Kkaennip can be used fresh as a ssam vegetable, fresh or blanched as a namul (edible leaves), or pickled in soy sauce or soybean paste to make jangajji (pickle) or kimchi.
 
 ### 부추 (Buchu)
