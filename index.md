@@ -13,7 +13,7 @@ Founded in 2019, we are family owned and operated proudly in Austin, TX.
 ## June 2, 2022 - ForeFlight Catering
 
 ### LA 갈비 (LA Galbi)
-
+![LA_Galbi](./assets/la_galbi.jpeg)
 > "Galbi" is the Korean word for "rib", and the dish is usually made with beef short ribs. "LA Galbi", also known as a flanken cut, features cut bones peeking out along the long edge. The method was developed by Korean immigrants in Los Angeles to accommodate the thinner rib-eye cut preferred by American butchers. The variation, which enables the marinade to penetrate the meat faster, has since made its way back to South Korea.
 
 #### Header 4
