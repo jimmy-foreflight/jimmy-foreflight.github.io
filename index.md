@@ -2,17 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Follow us on Instagram!](https://www.instagram.com/hongrys.atx/).
 
-[Link to another page](./another-page.html).
+# History
 
-There should be whitespace between paragraphs.
+Hidden within one of Austin's unique East Side neighborhoods, Hongry's Kitchen is a Speakeasy Omakase KBBQ restaurant that serves a variety of meats and farm to table organic vegetables.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Founded in 2019, we are family owned and operated proudly in Austin, TX.
 
 ## Header 2
 
