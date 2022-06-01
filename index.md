@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Follow us on Instagram!](https://www.instagram.com/hongrys.atx/).
+[Follow us on Instagram!](https://www.instagram.com/hongrys.atx/)
 
 # History
 
@@ -10,28 +10,11 @@ Hidden within one of Austin's unique East Side neighborhoods, Hongry's Kitchen i
 
 Founded in 2019, we are family owned and operated proudly in Austin, TX.
 
-## Header 2
+## June 2, 2022 - ForeFlight Catering
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### LA 갈비 (LA Galbi)
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> "Galbi" is the Korean word for "rib", and the dish is usually made with beef short ribs. "LA Galbi", also known as a flanken cut, features cut bones peeking out along the long edge. The method was developed by Korean immigrants in Los Angeles to accommodate the thinner rib-eye cut preferred by American butchers. The variation, which enables the marinade to penetrate the meat faster, has since made its way back to South Korea.
 
 #### Header 4
 
