@@ -27,7 +27,7 @@ Founded in 2019, we are family owned and operated proudly in Austin, TX.
 
 ---
 
-![Kkaennip](./assets/kkaennip.png)
+![Kkaennip](./assets/kkaennip.jpg)
 ### 깻잎 (Kkaennip)
 > In Korean cuisine, kkaennip or perilla leaves are widely used as a herb and a vegetable. Kkaennip can be used fresh as a ssam vegetable, fresh or blanched as a namul (edible leaves), or pickled in soy sauce or soybean paste to make jangajji (pickle) or kimchi.
 
