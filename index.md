@@ -16,11 +16,9 @@ Founded in 2019, we are family owned and operated proudly in Austin, TX.
 ![LA_Galbi](./assets/la_galbi.jpeg)
 > "Galbi" is the Korean word for "rib", and the dish is usually made with beef short ribs. "LA Galbi", also known as a flanken cut, features cut bones peeking out along the long edge. The method was developed by Korean immigrants in Los Angeles to accommodate the thinner rib-eye cut preferred by American butchers. The variation, which enables the marinade to penetrate the meat faster, has since made its way back to South Korea.
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### 김치 (Kimchi)
+![LA_Galbi](./assets/kimchi.jpeg)
+> A traditional Korean side dish of salted and fermented vegetables, such as napa cabbage and Korean radish. A wide selection of seasonings are used, including gochugaru (Korean chili powder), spring onions, garlic, ginger, and jeotgal (salted seafood), etc.
 
 ##### Header 5
 
