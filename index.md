@@ -32,4 +32,4 @@ Known as buchu (부추), garlic chives are widely used in Korean cuisine. They c
 
 ### 쌈장 (Ssamjang)
 ![Ssamjang](./assets/ssamjang.webp)
-Ssamjang is a thick, spicy paste used with food wrapped in a leaf in Korean cuisine. The sauce is made of doenjang (fermented soybeans), 
+Ssamjang is a thick, spicy paste used with food wrapped in a leaf in Korean cuisine. The sauce is made of doenjang (fermented soybeans), gochujang (red chili paste), sesame oil, onion, garlic, green onions, and optionally brown sugar.
