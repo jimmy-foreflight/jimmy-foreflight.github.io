@@ -6,7 +6,7 @@ layout: default
 
 # History
 
-![Hongrys_Kitchen](./assets/la_galbi.jpeg)
+![Hongrys_Kitchen](./assets/hongrys.jpeg)
 
 Hidden within one of Austin's unique East Side neighborhoods, Hongry's Kitchen is a Speakeasy Omakase KBBQ restaurant that serves a variety of meats and farm to table organic vegetables.
 
